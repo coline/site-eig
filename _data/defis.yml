@@ -803,6 +803,32 @@
   mentors:
     - "Sophie Jacquemont"
     - "Manuel Demougeot"
+    key_figures:
+    - amount: 20
+      description: "entretiens utilisateurs"
+    - amount: 8
+      description: "déplacements sur le terrain à Paris et en région"
+    - amount: 30
+      description: "écrans co-conçus"
+    - amount: 5
+      description: "ateliers internes et externes"
+  projects:
+    - image: img/realisations/dig/ResorptionBidonvilles_Panorama.jpg
+      title: "Panorama de la problématique et des parcours"
+      description: "Document de synthèse de la connaissance acquise sur le projet afin d’identifier les points d’amélioration et les développements futurs de la plateforme."
+      url: docs/dig_realisations/ResorptionBidonvilles_Panorama_ProblematiqueParcours_Nov2019.pdf
+      call_to_action: "Parcourir"
+    - image: img/realisations/dig/ResorptionBidonvilles_Synthese.jpg
+      title: "Synthèse des entretiens utilisateurs"
+      description: "Analyse des processus de travail actuels issue de la rencontre avec les utilisateurs et préfiguration de l'intégration de la plateforme à ces processus."
+      url: docs/dig_realisations/ResorptionBidonvilles_Syntheses_Aout2019.pdf
+      call_to_action: "Parcourir"
+    - image: img/realisations/dig/ResorptionBidonvilles_Maquette.jpg
+      title: "Exemple de maquette"
+      description: "La fonctionnalité « déclaration d’un dispositif » a été co-conçu avec l’équipe en s’appuyant sur les entretiens et les tests utilisateurs."
+      url: docs/dig_realisations/ResorptionBidonvilles_Maquette_Oct2019.pdf
+      call_to_action: "Parcourir"
+    
 
 "Sequoia":
   image: /img/defis/dig/Sequoia.png
